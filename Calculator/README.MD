@@ -1,3 +1,3 @@
    ## Calculator 
 
-   .Link 'https://stalwart-moonbeam-3bfbcc.netlify.app/'
+   -Live 'https://stalwart-moonbeam-3bfbcc.netlify.app/'
