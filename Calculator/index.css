@@ -6,7 +6,6 @@ body{
 .col-md-6{
     margin-top: 150px !important;
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-    border: 3px solid black !important;
 
 }
 input[type=button]{
