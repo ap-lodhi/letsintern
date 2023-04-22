@@ -29,3 +29,4 @@
 ##  4 javascript quiz app
 
 -Go Live 'https://heroic-duckanoo-e005aa.netlify.app/'
+![quiz](https://user-images.githubusercontent.com/87072168/233776697-0e99760c-abcb-444e-8808-8f76c2077696.JPG)
