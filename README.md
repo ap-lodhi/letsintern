@@ -39,3 +39,10 @@
 ## 6 Meals App
 
 .Go Live 'https://stupendous-fairy-c94573.netlify.app/'
+
+## 6 Todo list
+
+1) user can add there task 
+2) can delete there task  
+
+.Go Live 'https://lustrous-jalebi-2363f1.netlify.app/'
